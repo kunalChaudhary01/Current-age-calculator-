@@ -3,7 +3,6 @@ The Age Calculator is a user-friendly web application designed to calculate the 
 
 Tech Stack:
 Frontend: HTML, CSS, JavaScript
-Framework: Bootstrap (for responsive design)
 Tools: Date and time libraries to ensure precision in age calculation
 
 How to Use:
